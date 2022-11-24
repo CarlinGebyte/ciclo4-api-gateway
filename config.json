@@ -1,6 +1,6 @@
 {
   "dev": "localhost",
   "port": 7777,
-  "url-backend-security": "http://127.0.0.1:8080",
-  "url-backend-academic": "http://127.0.0.1:3002"
+  "url-backend-auth": "http://127.0.0.1:8080",
+  "url-backend-flask": "http://127.0.0.1:3002"
 }
